@@ -31,7 +31,6 @@ if (isset($_POST['logout'])) {
       <ul class="navbar-nav ml-auto mr-md-3">
         <li class="nav-item active"><a href="index.php" class="nav-link">Home</a></li>
         <li class="nav-item"><a href="cc.php" class="nav-link">Category</a></li>
-        <li class="nav-item"><a href="#" class="nav-link">About</a></li>
         <li class="nav-item"><a href="contactus.php" class="nav-link">Contact</a></li>
         <li class="nav-item dropdown">
           <?php
